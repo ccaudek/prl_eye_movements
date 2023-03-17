@@ -1,0 +1,2 @@
+webcam_width;webcam_height;screen_width;screen_height;left_side_left_eye_coordinate;left_side_right_eye_coordinate;right_side_left_eye_coordinate;right_side_right_eye_coordinate;left_side_left_eye_ratio;left_side_right_eye_ratio;right_side_left_eye_ratio;right_side_right_eye_ratio
+640;480;1366;768;322;411;315;403;0.53;0.57;0.58;0.5
